@@ -24,7 +24,7 @@
   "devDependencies": {
     "tsup": "^8.3.5",
     "typescript": "^5.7.2",
-    "vitest": "^1.6.0"
+    "vitest": "^3.2.6"
   },
   "dependencies": {
     "@babel/preset-react": "^7.26.3",
@@ -39,7 +39,7 @@
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
     "dotenv": "^16.4.7",
-    "drizzle-orm": "^0.33.0",
+    "drizzle-orm": "^0.45.2",
     "get-tsconfig": "^4.8.1",
     "prisma": "^5.22.0",
     "prompts": "^2.4.2",
